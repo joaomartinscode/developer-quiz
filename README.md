@@ -1,4 +1,4 @@
-# Developer-quiz⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Button Icon]](https://joaomartinscode.github.io/developer-quiz/)
+# Developer-quiz⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Button Icon]](https://joaomartinscode.github.io/developer-quiz/)
 <!----------------------------------------------------------------------------->
 [Button Icon]: https://img.shields.io/badge/-Live%20view-blueviolet
 
