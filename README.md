@@ -5,7 +5,7 @@
 ![alt text](quizimg.png)
 
 ## General info
-This project is a programming quiz, separated into three different categorys:
+This project is a programming quiz, separated into three different categories:
 
 > **Html**
 > <br>
