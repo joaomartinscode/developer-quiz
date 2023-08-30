@@ -2,7 +2,7 @@
 <!----------------------------------------------------------------------------->
 [Button Icon]: https://img.shields.io/badge/-Live%20view-blueviolet
 
-![alt text](quizimg.png)
+![quizimg](quizimg.png)
 
 ## General info
 This project is a programming quiz, separated into three different categories:
